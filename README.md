@@ -5,5 +5,12 @@ EfficientNet models (or approach) has gained the new state of the art accuracy f
 
 EfficientNetB7 achieved the best accuracy for this case
 
+For 20 epoh gained 0.90 accuracy,precision, recall, and f1 score.
+
+#Confusion Metric and classification report
+![](https://i.postimg.cc/1XKsccdX/image.png)
+![](https://i.postimg.cc/6ptGXMKj/normalized-cf.png)
+![](https://i.postimg.cc/3wyr5Gkf/cf.png)
+
 # Datasets
 Link: https://www.kaggle.com/aitude/aptos-augmented-images
