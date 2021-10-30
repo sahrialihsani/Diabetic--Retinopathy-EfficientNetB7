@@ -6,4 +6,4 @@ EfficientNet models (or approach) has gained the new state of the art accuracy f
 EfficientNetB7 achieved the best accuracy for this case
 
 # Datasets
-Link: https://www.kaggle.com/mohammadasimbluemoon/aptos2019-diabetic-retinopathy-oversampled-256x256
+Link: https://www.kaggle.com/aitude/aptos-augmented-images
